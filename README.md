@@ -24,7 +24,7 @@
 
 * An `admission-list.txt` file will be automatically created in the parent directory. This file contains the admission list.
 
-* Documentation is similar to that of the [C++-only version of this project](https://github.com/lil-brumski/Student_Database/tree/main/docs).
+* Documentation is similar to that of the [C++ only version of this project](https://github.com/lil-brumski/Student_Database/tree/main/docs).
 
 * Made by David Tamaratare Oghenebrume.
 
